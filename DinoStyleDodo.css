@@ -1,0 +1,55 @@
+﻿body {
+    background-image: url(wp3799479.webp);
+    background-size: 100% 500px;
+}
+#flecha{
+    width: 100px;
+    height: 50px;
+}
+h1 {
+    margin-bottom: 150px;
+    text-align: center;
+    font-size: 50px;
+    font-family: Verdana;
+}
+.Dodo{
+    background-color: white;
+    padding: 0px 25px 0px 10px;
+    margin: 0px 50px 0px 50px;
+    height: 800px;
+    border-top: 15px solid rgb(178, 0, 255, 0.85);
+}
+.Dodo p {
+    font-family: 'Siemens Sans';
+    padding-left: 100px;
+    padding-right: 100px;
+    font-size: 18px;
+    text-indent: 60px;
+}
+.Dodo span{
+    font-size: 50px;
+}
+.Dodo #primer{
+    float: right;
+}
+.Dodo #segundo {
+        float: left;
+}
+.Dodo #img1{
+    float: left;
+    padding: 0px 10px 0px 10px;
+}
+.Dodo #img2{
+    height: 250px;
+    width: 350px;
+    float: right;
+    padding: 50px 0px 10px 10px;
+}
+#text1{
+    width: 500px;
+    text-align: center;
+}
+#text2 {
+    width: 500px;
+    text-align: center;
+}

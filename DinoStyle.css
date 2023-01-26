@@ -1,0 +1,66 @@
+﻿*{
+    margin: 0px;
+}
+body {
+    background: linear-gradient(rgba(5, 7, 12, 0.60), rgba(5, 7, 12, 0.60)), url(wallhaven-2krer9.png) no-repeat center center fixed;
+    background-size: cover;
+}
+#logo h1{
+    display: inline-block;
+    font-size: 80px;
+    font-family: 'Courier New';
+    color: floralwhite;
+}
+#logo img{
+    width: 100px;
+    height: 100px;
+    margin-left: 400px;
+}
+#Menu{
+    background-color: black;
+}
+#Menu ul li {
+        list-style: none;
+        margin: 0px;
+        padding: 0px;
+        display: inline-block;
+}
+#Menu ul li a {
+            text-decoration: none;
+            display: block;
+            padding: 10px 20px;
+            color: white;
+}
+#Menu ul li a:hover {
+            background-color: #9D01E1
+}
+.imagenes {
+    display: inline-block;
+    margin-left: 100px;
+}
+.imagenes img {
+        width: 200px;
+        height: auto;
+        float: left;
+        margin: 10px;
+}
+.imagenes p {
+        background: rgba(255, 255, 255, 0.6);
+        padding: 5px 10px;
+        width: 100px;
+}
+table{
+    border-style: hidden;
+    background: rgb(128, 128, 128, 0.75);
+    color: whitesmoke;
+    margin-left: 400px;
+}
+#sup{
+    background-color: mediumpurple;
+}
+#inf{
+    position: center;
+    font-family: PanRoman;
+    color: ghostwhite;
+
+}

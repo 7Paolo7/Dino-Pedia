@@ -1,0 +1,57 @@
+﻿body {
+    background-image: url(Dilophosaurus2.png);
+    background-size: 100% 500px;
+}
+#flecha{
+    width: 100px;
+    height: 50px;
+}
+h1 {
+    margin-bottom: 150px;
+    text-align: center;
+    font-size: 50px;
+    font-family: Verdana;
+}
+.Dilophosaurus {
+    background-color: white;
+    padding: 0px 25px 0px 10px;
+    margin: 0px 50px 0px 50px;
+    height: 800px;
+    border-top: 15px solid rgb(178, 0, 255, 0.85);
+}
+.Dilophosaurus p {
+        font-family: 'Siemens Sans';
+        padding-left: 100px;
+        padding-right: 100px;
+        font-size: 16px;
+        text-indent: 60px;
+}
+.Dilophosaurus span {
+    font-size: 50px;
+}
+.Dilophosaurus #primer {
+    float: right;
+}
+.Dilophosaurus #segundo {
+    float: left;
+}
+.Dilophosaurus #img1 {
+    float: left;
+    padding: 0px 10px 0px 10px;
+    width: 300px;
+    height: 200px;
+}
+.Dilophosaurus #img2 {
+    height: 250px;
+    width: 350px;
+    float: right;
+    padding: 50px 0px 10px 10px;
+}
+#text1{
+    width: 500px;
+    text-align: center;
+}
+#text2 {
+    width: 500px;
+    text-align: center;
+}
